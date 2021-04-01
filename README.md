@@ -2,7 +2,7 @@
 
 A React App to keep track of Crypto Currency and their values,  built with React, axios, using coingecko API, deployed with Vercel.
 
-Deployed live at https://netflix-clone-9fa2b.web.app/
+Deployed live at https://crypto-hub.vercel.app/
 
 ![](SitePreview.jpg)
 
