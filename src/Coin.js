@@ -8,7 +8,7 @@ const Coin = ({
   marketcap,
   volume,
   image,
-  priceChange
+  priceChange,
 }) => {
   return (
     <div className='coin-container'>
