@@ -1,5 +1,5 @@
 {
-  "name": "03-cryptohub",
+  "name": "cryptohub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
