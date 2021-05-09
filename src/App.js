@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Coin from './Coin';
+import Footer from './Footer';
 
 function App() {
   const [coins, setCoins] = useState([]);
@@ -55,9 +56,7 @@ function App() {
           );
         })}
       </div>
-      <div className='footer'>
-        <h4>ⓒ2021 CryptoHub. All Rights Reserved</h4>
-      </div>
+      <Footer />
     </>
   );
 }
