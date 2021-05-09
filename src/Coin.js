@@ -30,9 +30,6 @@ const Coin = ({
           </p>
         </div>
       </div>
-      <div className="footer">
-        <h4>ⓒ2021 CryptoHub. All Rights Reserved</h4>
-      </div>
     </div>
   );
 };
